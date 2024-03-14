@@ -1,0 +1,8 @@
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\09 SEMANA\Clinica\Clinca\Clinca\obj\Debug\Clinica.csproj.AssemblyReference.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\09 SEMANA\Clinica\Clinca\Clinca\obj\Debug\Clinica.csproj.SuggestedBindingRedirects.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\09 SEMANA\Clinica\Clinca\Clinca\obj\Debug\Clinca.Form1.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\09 SEMANA\Clinica\Clinca\Clinca\obj\Debug\Clinca.Properties.Resources.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\09 SEMANA\Clinica\Clinca\Clinca\obj\Debug\Clinica.csproj.GenerateResource.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\09 SEMANA\Clinica\Clinca\Clinca\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\09 SEMANA\Clinica\Clinca\Clinca\obj\Debug\Clinca.exe
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\3º PERÍODO\PROGRAMAÇÃO ORIENTADA A OBJETOS\09 SEMANA\Clinica\Clinca\Clinca\obj\Debug\Clinca.pdb
